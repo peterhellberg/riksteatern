@@ -2,14 +2,13 @@
 
 A small Ruby client for the Riksteatern API.
 
-You can find out more about the API on [http://data.riksteatern.se/](http://data.riksteatern.se/). (In Swedish)
+You can find out more about the API (In Swedish) on [http://data.riksteatern.se/](http://data.riksteatern.se/).
 
 [![Build Status](https://travis-ci.org/peterhellberg/riksteatern.png?branch=master)](https://travis-ci.org/peterhellberg/riksteatern)
 
 ## Dependencies
 
-No runtime dependencies. Bundler, Rake and Minitest 
-is required for development.
+No runtime dependencies. Bundler, Rake and Minitest is required for development.
 
 ## Installation
 
