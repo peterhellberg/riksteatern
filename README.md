@@ -8,7 +8,7 @@ You can find out more about the API (In Swedish) on [http://data.riksteatern.se/
 
 ## Dependencies
 
-No runtime dependencies. Bundler, Rake and Minitest is required for development.
+No runtime dependencies. Bundler, Rake and Minitest are required for development.
 
 ## Installation
 
