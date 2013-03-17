@@ -1,0 +1,29 @@
+{
+  "productionUrl" : "https://riksteatern.se:8181/api/produktion.json/314",
+  "productionInformation" : {
+    "productionName" : "Kan man älska en hamster?",
+    "productionIntroText" : "Ett kärlekslabratorium som vänder och vrider på kärleken. Kärleken till mormor, IdolOlle, spagetti och köttfärssås, bästisen eller sin alldeles egna hamster!",
+    "productionDescription" : "Kan man älska en hamster? – är en lustfylld och lekfull föreställning om kärlek som bygger på text, rörelse och interaktivitet. Vad är kärlek egentligen? Vad händer i kroppen och hur känns det?  Kan kärleken till min hamster vara lika stor som den till mamma och pappa eller lillebror? Vad händer med omvärlden när man blir kär? Förändras färgerna och lukterna, smakar pappas fiskpinnar godare? Aldrig är skillnaderna i mognad så stora som i mellanstadiet. Vissa har redan provat att kyssas medan andra fortfarande bygger med lego. Det är en ålder med stora dramatiska känslor och vännerna är det viktigaste på jorden. \r\n\r\nKan man älska en hamster? vänder och vrider på kärleken i ett vidare begrepp än den kärlek som gör dig kär. Kärleken till mormor, IdolOlle, spagetti och köttfärssås, bästisen eller sin alldeles egna hamster!",
+    "productionHomepage" : "www.tagegranit.se",
+    "participants" : "Manus & regi: Susanne Lindberg. \r\nSkådespelare: Ulrika Lindberg, Hanna Nyroos, Josef Säterhagen\r\nKoreograf: Maria Rimshult. Scenograf: Lina Serning. Dramapedagog: Ewa Lindberg. \r\nProducent: Anna Marking\r\n",
+    "numberOfParticipants" : 3,
+    "performanceLengthHrs" : 1,
+    "performanceLengthMns" : null,
+    "pause" : "0",
+    "category" : [ "Barn/Skola", "Teater", "Workshops/kurser" ],
+    "productionPictures" : [ ],
+    "firstPerformanceLocation" : "Teater Pero",
+    "firstPerformanceDate" : "2011-10-28",
+    "premiereLocation" : "Teater Pero",
+    "premiereDate" : "2011-10-28",
+    "newPremiereLoction" : null,
+    "newPremiereDate" : null
+  },
+  "producerInformation" : {
+    "producerId" : 214,
+    "producerName" : "Tage Granit",
+    "mainContactId" : null,
+    "producerHomepage" : "http://www.tagegranit.se",
+    "producerLogotype" : "http://scenkonstportalen.riksteatern.se/sites/default/files/uploaded_files/size_producer_big/litenlogga.jpg"
+  }
+}

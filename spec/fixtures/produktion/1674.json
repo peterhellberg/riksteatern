@@ -1,0 +1,29 @@
+{
+  "productionUrl" : "https://riksteatern.se:8181/api/produktion.json/1674",
+  "productionInformation" : {
+    "productionName" : "Wishing Well",
+    "productionIntroText" : "Wishing Well  - en hyllning till de egna önskningarna och drömmarna!\n",
+    "productionDescription" : "Önskebrunnarnas magiska krafter har varit omtalade långt tillbaka genom historien. De har använts både för utövande av magi, förbannelser, ritualer, healing, spådomskonst men framför allt har de använts till att uppfylla önskningar.\nI fontäner världen över ligger inte bara mynt utan också miljontals människors drömmar och förhoppningar. Vilka döljer sig under ytan i stadens egna fontän? Vilka vill du lägga däri?\n\nWishing Well är en performanceritual som utförs om morgonen kl 07.00.\nGör din dag till en lyckodag. Det enda du behöver är ett mynt!",
+    "productionHomepage" : null,
+    "participants" : "Sofia Breimo\nJohannes Blomqvist\nLokal cellist",
+    "numberOfParticipants" : 3,
+    "performanceLengthHrs" : null,
+    "performanceLengthMns" : 45,
+    "pause" : null,
+    "category" : [ "Alternativa spelplatser", "Teater", "Musik", "Ny scenkonst", "Performance", "Familje-föreställning" ],
+    "productionPictures" : [ "http://scenkonstportalen.riksteatern.se/sites/default/files/uploaded_files/size_production_big/j.JPG", "http://scenkonstportalen.riksteatern.se/sites/default/files/uploaded_files/size_production_big/dd.JPG", "http://scenkonstportalen.riksteatern.se/sites/default/files/uploaded_files/size_production_big/kk.jpg", "http://scenkonstportalen.riksteatern.se/sites/default/files/uploaded_files/size_production_big/e.JPG", "http://scenkonstportalen.riksteatern.se/sites/default/files/uploaded_files/size_production_big/11.JPG", "http://scenkonstportalen.riksteatern.se/sites/default/files/uploaded_files/size_production_big/3.. Wishing Well", "http://scenkonstportalen.riksteatern.se/sites/default/files/uploaded_files/size_production_big/2011", "http://scenkonstportalen.riksteatern.se/sites/default/files/uploaded_files/size_production_big/performance", "http://scenkonstportalen.riksteatern.se/sites/default/files/uploaded_files/size_production_big/Olohuone.JPG" ],
+    "firstPerformanceLocation" : null,
+    "firstPerformanceDate" : null,
+    "premiereLocation" : "Åbo",
+    "premiereDate" : "2011-06-06",
+    "newPremiereLoction" : null,
+    "newPremiereDate" : null
+  },
+  "producerInformation" : {
+    "producerId" : 796,
+    "producerName" : "Sofia Breimo",
+    "mainContactId" : null,
+    "producerHomepage" : "http://www.sofiabreimo.com",
+    "producerLogotype" : "http://scenkonstportalen.riksteatern.se/sites/default/files/uploaded_files/size_producer_big/Fjällnära.jpg"
+  }
+}

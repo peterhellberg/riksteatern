@@ -1,0 +1,54 @@
+{
+  "venueUrl" : "https://riksteatern.se:8181/api/lokal.json/0180126",
+  "venueName" : "Finlandsinstitutet, Sibeliussalen",
+  "venueInformation" : {
+    "homepage" : "www.finlansinstitutet.se",
+    "address" : {
+      "address1" : "Snickarbacken 2-4",
+      "address2" : " ",
+      "postalCode" : null,
+      "postalCity" : null,
+      "countryCode" : null
+    },
+    "location" : {
+      "regionName" : "Stockholms län",
+      "municipalityName" : "Stockholm",
+      "geoPosition" : {
+        "geoPositionShipping" : {
+          "lat" : "59.3380803",
+          "lon" : "18.0684012"
+        }
+      }
+    },
+    "phoneNumber" : [ {
+      "type" : "phone",
+      "number" : "08-54521200"
+    }, {
+      "type" : "fax",
+      "number" : "08-54521210"
+    } ],
+    "accesibility" : {
+      "wheelchairSeatsInSalon" : " ",
+      "wheelchairSeatsPlacement" : " ",
+      "rwcAudience" : " ",
+      "disabledParking" : "Svårtillgänglig pga. parkering",
+      "entranceFoyerAccesibilityAdapted" : " ",
+      "hearingLoopInSalon" : " ",
+      "hearingLoopControlDate" : " ",
+      "hearingLoopOnStage" : " ",
+      "accessibilityToStageForWheelchair" : " ",
+      "rwcParticipants" : " ",
+      "commentsAccessibility" : " "
+    }
+  },
+  "venueDescription" : {
+    "venueTypeId" : 2,
+    "venueType" : "Sal",
+    "numberOfSeats" : 200,
+    "stageWidth" : 0,
+    "stageDepth" : 0,
+    "stageOpening" : null,
+    "actingDepth" : 0,
+    "stageMinHeight" : 0
+  }
+}

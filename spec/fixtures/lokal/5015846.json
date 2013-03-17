@@ -1,0 +1,54 @@
+{
+  "venueUrl" : "https://riksteatern.se:8181/api/lokal.json/5015846",
+  "venueName" : "Folkets Hus, Idun",
+  "venueInformation" : {
+    "homepage" : "www.hallundafolketshus.se",
+    "address" : {
+      "address1" : "Folkets Hus",
+      "address2" : "Box 134, Borgvägen 1",
+      "postalCode" : null,
+      "postalCity" : null,
+      "countryCode" : null
+    },
+    "location" : {
+      "regionName" : "Stockholms län",
+      "municipalityName" : "Botkyrka",
+      "geoPosition" : {
+        "geoPositionShipping" : {
+          "lat" : "59.25",
+          "lon" : "17.783333"
+        }
+      }
+    },
+    "phoneNumber" : [ {
+      "type" : "phone",
+      "number" : "08/53062570"
+    }, {
+      "type" : "fax",
+      "number" : " "
+    } ],
+    "accesibility" : {
+      "wheelchairSeatsInSalon" : "Ja 2st vi biovisning ",
+      "wheelchairSeatsPlacement" : " ",
+      "rwcAudience" : "Ja",
+      "disabledParking" : "Ja",
+      "entranceFoyerAccesibilityAdapted" : "Ja",
+      "hearingLoopInSalon" : "Ja",
+      "hearingLoopControlDate" : "2011-10-01",
+      "hearingLoopOnStage" : "Ja",
+      "accessibilityToStageForWheelchair" : "Nej",
+      "rwcParticipants" : "Nej",
+      "commentsAccessibility" : "Med läktaren inne så är scenen tillgänglig för rullstolar."
+    }
+  },
+  "venueDescription" : {
+    "venueTypeId" : 2,
+    "venueType" : "Sal",
+    "numberOfSeats" : 135,
+    "stageWidth" : 8000,
+    "stageDepth" : 9000,
+    "stageOpening" : null,
+    "actingDepth" : 3000,
+    "stageMinHeight" : 5000
+  }
+}

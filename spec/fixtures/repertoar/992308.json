@@ -1,0 +1,23 @@
+{
+  "eventUrl" : "https://riksteatern.se:8181/api/repertoar.json/992308",
+  "arrangerId" : "222",
+  "arrangerName" : "",
+  "eventInformation" : {
+    "eventName" : "Under hatten",
+    "eventMetaDescription" : "En dansföreställning med dockor. Ur Erik Saties musik växer det fram poetiska bilder som ett drömspel eller kanske kompositörens tankar och visioner. Under hatten är en föreställning utan ord, där musiken och det visuella får tala.",
+    "informationLink" : "",
+    "venueUrl" : "https://riksteatern.se:8181/api/lokal.json/5015846",
+    "venueName" : "Folkets Hus, Idun",
+    "regionName" : "Stockholms län",
+    "municipalityName" : "Botkyrka",
+    "eventDate" : "2013-03-16",
+    "eventTime" : "15:00:00",
+    "ticketInformation" : "Biljetter för 40 kr/styck kan beställas på  tfn 08-531 \r\n996 40.\r\nÖverblivna biljetter säljs 15 min före föreställningens \r\nbörjan.",
+    "ticketInformationScenpass" : "",
+    "scenpassBenefit" : false,
+    "ticketInformationOnline" : "",
+    "publicShow" : true,
+    "coProducer" : "ABF Botkyrka-Salem",
+    "cancelledEvent" : false
+  }
+}
