@@ -5,6 +5,7 @@ A small Ruby client for the Riksteatern API.
 You can find out more about the API (In Swedish) on [http://data.riksteatern.se/](http://data.riksteatern.se/).
 
 [![Build Status](https://travis-ci.org/peterhellberg/riksteatern.png?branch=master)](https://travis-ci.org/peterhellberg/riksteatern)
+[![Gem Version](https://badge.fury.io/rb/riksteatern.png)](http://badge.fury.io/rb/riksteatern)
 
 ## Dependencies
 
